@@ -15,15 +15,17 @@ author: Francis Poulin
 
 navbar-links:
   Teaching: "teaching"
-  Research: "research"
-  Publicastions: "publications"
-  Research Opportunities: "opportunities"
+  Research: 
+    - Research Areas: "research"
+    - Research Opportunities: "opportunities"
+  Publications: "publications"
+#  Research Opportunities: "opportunities"
   Contact: "contact"
 #  About Me: "aboutme"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://uwaterloo.ca/poulin-research-group/"
+#  Author's home: "https://uwaterloo.ca/poulin-research-group/"
 
 # --- Logo --- #
 
