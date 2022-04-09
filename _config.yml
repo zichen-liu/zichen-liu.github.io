@@ -14,11 +14,16 @@ author: Francis Poulin
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Teaching: "teaching"
+  Research: "research"
+  Publicastions: "publications"
+  Research Opportunities: "opportunities"
+  Contact: "contact"
+#  About Me: "aboutme"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+  Author's home: "https://uwaterloo.ca/poulin-research-group/"
 
 # --- Logo --- #
 
