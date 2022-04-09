@@ -14,15 +14,6 @@ bigimg:
   - "/assets/img/path.jpg" : "Path JPG"
 ---
 
-Professor Poulin researches problems in
-
-- Physical Oceanography,
-- Biological Oceanography, 
-- Solar Physics, 
-- Computational Fluid Dynamics, and  
-- Applied Matheamtics.  
-
-
 He also teaches courses in Applied Mathematics that have a lot of overlap with Physics.
 
 ### Supervision:
