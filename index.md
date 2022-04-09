@@ -1,17 +1,17 @@
 ---
-layout: home
+layout: page
 title: Poulin Research Group
 subtitle: Professor Francis J. Poulin 
 subtitle2: Professor of Applied Mathematics and Physics and Astronomy
 css: "/css/index.css"
 #img: "/assets/img/francispoulin-photo.jpg"
 #img: "/assets/img/q-picture.jpg"
-img: "/assets/img/path.jpg"
+#img: "/assets/img/path.jpg"
 meta-title: "Poulin Research Group"
-meta-description: "Professor Francis J. Poulin of Applied Mathematics"
+meta-description: "Francis J. Poulin, Professor of Applied Mathematics"
 social_media: false
 bigimg:
-  - "/assets/img/path.jpg"
+  - "/assets/img/path.jpg" : "Path JPG"
 ---
 
 Professor Poulin researches problems in
