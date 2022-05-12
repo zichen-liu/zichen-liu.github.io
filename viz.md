@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Data Visualizations
-subtitle: Selected figures I created for publications
+title: Data Viz
+subtitle: Selected data visualizations I created for publications
 ---
 
 At the Institute for Health Metrics and Evaluation, I modeled injuries for the [Global Burden of Disease Study](https://www.healthdata.org/gbd/about). My PI complimented my "good eye for data visualizations," so I became our resident ggplot maker for publications! Below are some of my favorites, but you can see more of my work featured in our [13-paper Injury Prevention series](https://injuryprevention.bmj.com/content/26/Suppl_2). 

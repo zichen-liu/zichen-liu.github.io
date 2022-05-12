@@ -14,9 +14,8 @@ author: Zichen Liu
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "index"
-  CV: "cv"
-  Academics:
+  Curriculum Vitae: "cv"
+  Academic Stuff:
     - Undergrad Thesis: "thesis"
     - Masters Capstone: "capstone"
     - Relevant Coursework: "courses"

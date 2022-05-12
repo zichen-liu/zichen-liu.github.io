@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Masters Capstone
+title: Capstone
 subtitle: Modeling public housing outcomes in King County
 ---
 

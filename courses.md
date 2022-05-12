@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Relevant Coursework
+title: Coursework
 ---
 
 ### Mathematics

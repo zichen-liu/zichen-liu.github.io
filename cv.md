@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: CV
 ---
 
-[**Click here for my complete CV**](/assets/files/cv.pdf)
+<p align="center">[**Click here for my complete CV**](/assets/files/cv.pdf)</p>
 
 ### Education
 

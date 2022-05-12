@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Slide Decks and Posters
+title: Slides & Posters
 subtitle: Selected presentations I designed
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Undergraduate Thesis
+title: Thesis
 subtitle: Using Python to visualize quantum mechanics data
 ---
 
