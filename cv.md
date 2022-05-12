@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 
-<center><b>[Click here for my complete CV](/assets/files/cv.pdf)</b></center>
+<a href="/assets/files/cv.pdf"><center><b>Click here for my complete CV</b></center></a>
 
 ### Education
 

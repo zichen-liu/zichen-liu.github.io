@@ -11,4 +11,4 @@ I grew up in the Silicon Valley of California. I attended Pomona College and gra
  
 Despite pursuing STEM majors and technical roles, I have many artistic hobbies such as creative writing and performing in musical ensembles (as a violinist or an alto). I am also a huge fan of competitive video games and horror movies!
 
-<p style="text-align: center;">[**Please take a look at my resume here**](/assets/files/resume.pdf)</p>
+<a href="/assets/files/resume.pdf"><center><b>Please take a look at my resume here</b></center></a>
