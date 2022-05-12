@@ -3,11 +3,9 @@ layout: page
 title: CV
 ---
 
-<a href="/assets/files/cv.pdf"><center><b>Click here for my complete CV</b></center></a>
-
 ### Education
 
-- *Incoming PhD Student in Biostatistics, UCLA*
+- *Current: Incoming PhD Student in Biostatistics, UCLA*
 - MS in Biostatistics, University of Washington, 2022
 - BA in Chemistry, Pomona College, 2018
 
@@ -31,3 +29,5 @@ title: CV
 - Linux/Unix, C, Perl, SAS, HTML/CSS, JavaScript, Standard ML, LaTeX
 - Machine learning, neural networks, and natural language processing
 - High performance/cluster computing
+
+<a href="/assets/files/cv.pdf"><center><b>Click here for my complete CV</b></center></a>

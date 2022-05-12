@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Coursework
+subtitle: Selected relevant courses
 ---
 
 ### Mathematics
