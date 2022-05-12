@@ -3,11 +3,7 @@ layout: page
 title: CV
 ---
 
-<center>
-
-[**Click here for my complete CV**](/assets/files/cv.pdf)
-
-</center>
+<p style="text-align: center;">[**Click here for my complete CV**](/assets/files/cv.pdf)</p>
 
 ### Education
 
