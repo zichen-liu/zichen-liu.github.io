@@ -4,7 +4,9 @@ title: CV
 ---
 
 <center>
+
 [**Click here for my complete CV**](/assets/files/cv.pdf)
+
 </center>
 
 ### Education
