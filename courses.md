@@ -9,6 +9,7 @@ subtitle: Selected relevant courses
 - [Linear Algebra](https://catalog.pomona.edu/preview_course_nopop.php?catoid=40&coid=143199)
 - [Vector Calculus](https://catalog.pomona.edu/preview_course_nopop.php?catoid=40&coid=143204)
 - [Probability](https://math.washington.edu/courses/2019/summer/math/394/c)
+- [Real Analysis](https://math.berkeley.edu/courses/summer-2022-math-104-003-lec)
 
 ### Computer Science
 
