@@ -5,9 +5,9 @@ title: CV
 
 ### Education
 
-- *Current: Incoming PhD Student in Biostatistics, UCLA*
-- MS in Biostatistics, University of Washington, 2022
-- BA in Chemistry, Pomona College, 2018
+- *Current: doctoral student in biostatistics at UCLA*
+- MS in biostatistics, University of Washington, 2022
+- BA in chemistry, Pomona College, 2018
 
 ### Highlights
 
@@ -19,15 +19,15 @@ title: CV
 ### Top skills
 
 - R (since 2018), Python (since 2015), Java (since 2014), SQL (since 2013)
-- Statistical modeling, data science, and simulation studies
+- Statistical modeling, data science, simulation studies
 - Aesthetic [data visualization](https://zichen-liu.github.io/viz/) and [presentation design](https://zichen-liu.github.io/slides/)
-- Scientific writing, code versioning (Git), and agile project management (Jira)
+- Scientific writing, code versioning (Git), agile project management (Jira)
 
 ### Experience with
 
 - Linux/Unix, C, Perl, SAS, HTML/CSS, JavaScript, Standard ML, LaTeX
-- Machine learning, neural networks, and natural language processing
-- Cheminformatics and bioinformatics
+- Machine learning, neural networks, natural language processing
+- Cheminformatics/bioinformatics
 - High performance computing
 
 <a href="/assets/files/cv.pdf"><center><b>Click here for my complete CV</b></center></a>
