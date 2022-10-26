@@ -8,7 +8,7 @@ title: About Me
 Hello! My name is Zichen Liu (*zee-chen lee-oo*) and I'm a (bio)statistician.
 
 I grew up in the Silicon Valley of California. Here's a quick overview of my life:
-- 2014-2018: I was Pomona College, pursuing my BA in chemistry
+- 2014-2018: I was at Pomona College, pursuing my BA in chemistry
 - 2018-2021: I moved to Seattle to work at the Institute for Health Metrics and Evaluation as a data professional
 - 2020-2022: I stayed at the University of Washington to pursue my MS in biostatistics
 - Now: I'm a PhD student in biostatistics at UCLA

@@ -18,7 +18,7 @@ subtitle: Selected relevant courses
 - [Survival Data Analysis](https://www.biostat.washington.edu/academics/courses/biost/537)
 - [Spatial Epidemiology](https://www.biostat.washington.edu/academics/courses/biost/555)
 
-### Undergraduate-level coursework in math and CS
+### Undergraduate-level foundations of math and CS
 
 - [Linear Algebra](https://catalog.pomona.edu/preview_course_nopop.php?catoid=40&coid=143199)
 - [Vector Calculus](https://catalog.pomona.edu/preview_course_nopop.php?catoid=40&coid=143204)
