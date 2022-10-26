@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-![me](/assets/img/my_tall_face.jpg){: style="float: left; margin-right: 10em;"}
+![me](/assets/img/my_tall_face.jpg){: style="float: left; margin-right: 2em;"}
 
 Hello! My name is Zichen Liu (*zee-chen lee-oo*) and I'm a (bio)statistician.
 
