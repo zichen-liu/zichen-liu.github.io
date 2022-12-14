@@ -63,3 +63,15 @@ This figure does not appear in a publication but rather in our presentation at t
 
 The figure shows the prevalence of sexual violence in females age 15 to 49 in 2019.
 > Modeling sexual violence was a challenging endeavor. It was interesting to see the uniformly high estimates for China, which did not align with the country prior. Upon reading the documentation on the survey data, we learned that the Chinese survey prioritized confidentiality and comfort for participants, leading to a higher reported prevalence. This illustrated the need for better data collection tools and modeling methods to capture the true burden of this global issue.
+
+### Improving the modeling flowchart
+
+> Below, I demonstrate how I updated the flowchart for nonfatal injuries modeling, the process I contributed to the most during my time at IHME. The flowchart is not only included in the appendix for each GBD publication, but it is also a teaching tool for new employees or collaborators. However, I found the old flowchart very difficult to follow, so I made it more accessible.
+
+Below is the flowchart from supplementary appendix 1 of [GBD 2017](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)32279-7/fulltext) (before my edits).
+
+![old](/assets/img/old_flowchart.png)
+
+Below is the flowchart from supplementary appendix 1 of [GBD 2019](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30925-9/fulltext) (after my edits).
+
+![new](/assets/img/new_flowchart.png)

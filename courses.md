@@ -9,7 +9,7 @@ subtitle: Selected relevant courses
 - [Mathematical Methods for Biostatistics](https://ucla-biostat-216.github.io/2022fall/syllabus/syllabus.html)
 - [Computational Methods in Biostatistics](https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=22F&subj_area_cd=BIOSTAT&crs_catlg_no=0213%20%20%20%20&class_id=535079200&class_no=%20001%20%20)
 
-### Masters-level electives in biostatistics
+### Masters-level electives
 
 - [Design of Medical Studies](https://www.biostat.washington.edu/academics/courses/biost/524)
 - [Biomedical Data Science](https://www.biostat.washington.edu/academics/courses/biost/544)
@@ -18,7 +18,7 @@ subtitle: Selected relevant courses
 - [Survival Data Analysis](https://www.biostat.washington.edu/academics/courses/biost/537)
 - [Spatial Epidemiology](https://www.biostat.washington.edu/academics/courses/biost/555)
 
-### Undergraduate-level foundations of math and CS
+### Undergraduate-level math and CS
 
 - [Linear Algebra](https://catalog.pomona.edu/preview_course_nopop.php?catoid=40&coid=143199)
 - [Vector Calculus](https://catalog.pomona.edu/preview_course_nopop.php?catoid=40&coid=143204)

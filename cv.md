@@ -25,7 +25,7 @@ title: CV
 
 ### Experience with
 
-- Linux/Unix, C, Perl, SAS, HTML/CSS, JavaScript, Standard ML, LaTeX
+- Linux/Unix, C, LaTeX, Perl, SAS, HTML/CSS, JavaScript, Standard ML
 - Machine learning, neural networks, natural language processing
 - Cheminformatics/bioinformatics
 - High performance computing
