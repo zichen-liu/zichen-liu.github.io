@@ -6,8 +6,10 @@ subtitle: Selected relevant courses
 
 ### PhD-level coursework
 
-- [Mathematical Methods for Biostatistics](https://ucla-biostat-216.github.io/2022fall/syllabus/syllabus.html)
-- [Computational Methods in Biostatistics](https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=22F&subj_area_cd=BIOSTAT&crs_catlg_no=0213%20%20%20%20&class_id=535079200&class_no=%20001%20%20)
+- [Mathematical Methods](https://ucla-biostat-216.github.io/2022fall/syllabus/syllabus.html)
+- [Computational Methods](https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=22F&subj_area_cd=BIOSTAT&crs_catlg_no=0213%20%20%20%20&class_id=535079200&class_no=%20001%20%20)
+- [Bayesian Computation](http://donatello-telesca.com/biostatistics-271-bayesian-computation)
+- [Applied Bayesian Analysis](https://robweiss.faculty.biostat.ucla.edu/biostat234)
 
 ### Masters-level electives
 
