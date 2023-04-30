@@ -13,7 +13,7 @@ title: CV
 
 - 2.5 years of industry data science experience
 - 1 year of biostatistics research experience
-- 16 publications; check them out on [Google Scholar](https://scholar.google.com/citations?user=3f84J30AAAAJ&hl=en&authuser=1)
+- 16 publications; check them out on [Google Scholar](https://scholar.google.com/citations?user=JWr9T7AAAAAJ&hl)
 - 2 national conference presentations: [ACS 2018](https://www.morressier.com/o/event/5fc63fa103137aa5257ba0c8/article/5fc640832d78d1fec4648e03) and [APHA 2020](https://apha.confex.com/apha/2020/meetingapp.cgi/Paper/482250)
 
 ### Top skills
