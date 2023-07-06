@@ -10,6 +10,8 @@ subtitle: Selected relevant courses
 - [Computational Methods](https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=22F&subj_area_cd=BIOSTAT&crs_catlg_no=0213%20%20%20%20&class_id=535079200&class_no=%20001%20%20)
 - [Bayesian Computation](http://donatello-telesca.com/biostatistics-271-bayesian-computation)
 - [Applied Bayesian Analysis](https://robweiss.faculty.biostat.ucla.edu/biostat234)
+- [Statistical Computing](https://ucla-biostat-257.github.io/2023spring/syllabus/syllabus.html)
+- [Power and Sample Size Methods](https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=24S&subj_area_cd=BIOSTAT&crs_catlg_no=0231%20%20%20%20&class_id=535187201&class_no=%20001%20%20)
 
 ### Masters-level electives
 
