@@ -4,14 +4,14 @@ title: Coursework
 subtitle: Selected relevant courses
 ---
 
-### Biostatistics core
+### Methods
 
 - [Applied Linear Algebra](https://ucla-biostat-216.github.io/2022fall/syllabus/syllabus.html)
 - Mathematical Statistics
 - [Statistical Computing](https://ucla-biostat-257.github.io/2023spring/syllabus/syllabus.html)
 - Linear Statistical Models
 
-### Biostatistics electives
+### Electives
 
 - Stochastic Methods
 - [Power and Sample Size](https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=24S&subj_area_cd=BIOSTAT&crs_catlg_no=0231%20%20%20%20&class_id=535187201&class_no=%20001%20%20)

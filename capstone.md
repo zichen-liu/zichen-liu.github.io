@@ -6,7 +6,7 @@ subtitle: Modeling public housing outcomes in King County
 
 My classmates from the UW biostatistics MS program, [Hantong](https://hantongh.github.io/), [Taylor](https://tdkeating.github.io/), [Niki](https://nikipetrakos.github.io/), and I, had the pleasure of working together with epidemiologists from Public Health -- Seattle and King County on the topic of Housing and Urban Development.
 
-Although this was just a school project, we extended our work into this publication: [Associations Between Exit Type From Federal Housing Assistance and Subsequent Homelessness](https://doi.org/10.1080/10511482.2023.2243260)!
+Although this was just a school project, we extended our work into a neat little publication: [Associations Between Exit Type From Federal Housing Assistance and Subsequent Homelessness](https://doi.org/10.1080/10511482.2023.2243260).
 
 Below is the slide deck we presented to the biostatistics department and local public housing experts. It was very rewarding to know that our research was valuable to those who work directly with the populations in need.
 
