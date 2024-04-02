@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-<p align="center">![me](/assets/img/my_chicago_face.JPG)</p>
+<p align="center"><img src="/assets/img/my_chicago_face.JPG"/></p>
 
 Hello! My name is Zichen Liu (*zee-chen lee-oo*) and I'm a (bio)statistician.
 
