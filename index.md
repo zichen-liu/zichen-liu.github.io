@@ -5,7 +5,7 @@ title: About Me
 
 <p align="center"><img src="/assets/img/my_chicago_face.JPG"/></p>
 
-Hello! My name is Zichen Liu (*zee-chen lee-oo*) and I'm a (bio)statistician.
+Hello! My name is Zichen Liu (*zee-chen lee-oo*) and I'm a (bio)statistician. Yay!
 
 I grew up in the Silicon Valley of California. Here's a quick overview of my professional journey:
 
