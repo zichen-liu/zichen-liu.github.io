@@ -21,7 +21,7 @@ title: CV
 - Python, R, Java, SQL, Julia, Unix/Linux, LaTeX
 - I've been programming for 10+ years so I'm confident in my programming skills and pick up new ones quickly
 - I have years of professional data science & statistical modeling experience
-- I love computation: MCMC, numerical methods, optimization, BLAS/LAPACK, simulation studies, etc
+- I love computation: MCMC, numerical methods, optimization, BLAS/LAPACK, simulation studies, etc.
 - I have an eye for aesthetic [data visualization](https://zichen-liu.github.io/viz/) and [presentation design](https://zichen-liu.github.io/slides/)
 - I'm an advocate for effective scientific writing, code versioning (Git), and agile project management (Jira/Asana)
 
@@ -31,5 +31,3 @@ title: CV
 - Machine learning, neural networks, natural language processing
 - Cheminformatics & bioinformatics
 - High performance computing / cluster computing
-
-<a href="/assets/files/cv.pdf"><center><b>Click here for my complete CV</b></center></a>
