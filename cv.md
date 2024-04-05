@@ -11,7 +11,7 @@ title: CV
 
 ### Highlights
 
-- 2.5 years of industry experience
+- 2.5 years of industry experience in data science
 - 2 years of PhD research experience
 - 16 publications (8k+ citations); check them out on [Google Scholar](https://scholar.google.com/citations?user=JWr9T7AAAAAJ&hl)
 - 2 national conference presentations: [ACS 2018](https://www.morressier.com/o/event/5fc63fa103137aa5257ba0c8/article/5fc640832d78d1fec4648e03) and [APHA 2020](https://apha.confex.com/apha/2020/meetingapp.cgi/Paper/482250)
@@ -20,10 +20,10 @@ title: CV
 
 - Python, R, Java, SQL, Julia, Unix/Linux, LaTeX
 - I've been programming for 10+ years so I'm confident in my programming skills and pick up new ones quickly
-- I have years of professional data science & statistical modeling experience
-- I love computation: MCMC, numerical methods, optimization, BLAS/LAPACK, simulation studies, etc.
-- I have an eye for aesthetic [data visualization](https://zichen-liu.github.io/viz/) and [presentation design](https://zichen-liu.github.io/slides/)
-- I'm an advocate for effective scientific writing, code versioning (Git), and agile project management (Jira/Asana)
+- Well-versed in both frequentist and Bayesian inference techniques
+- Computationally savvy: MCMC, rejection sampling, optimization, glmnet, BLAS/LAPACK, simulation studies, etc.
+- A nerd for aesthetic [data visualization](https://zichen-liu.github.io/viz/) and [presentation design](https://zichen-liu.github.io/slides/)
+- An effective scientific writer, code versioner (Git), and agile project manager
 
 ### Experience with
 
@@ -31,3 +31,4 @@ title: CV
 - Machine learning, neural networks, natural language processing
 - Cheminformatics & bioinformatics
 - High performance computing / cluster computing
+- Wrangling high dimensional data / big databases / messy datasets
