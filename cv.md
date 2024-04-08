@@ -19,7 +19,7 @@ title: CV
 ### Top skills
 
 - Python, R, Java, SQL, Julia, Unix/Linux, LaTeX
-- I've been programming for 10+ years so I'm confident in my programming skills and pick up new ones quickly
+- I've been programming for 10+ years so I'm confident in my existing programming skills and pick up new ones quickly
 - Well-versed in both frequentist and Bayesian inference techniques
 - Computationally savvy: MCMC, rejection sampling, optimization, glmnet, BLAS/LAPACK, simulation studies, etc.
 - A nerd for aesthetic [data visualization](https://zichen-liu.github.io/viz/) and [presentation design](https://zichen-liu.github.io/slides/)
@@ -31,4 +31,4 @@ title: CV
 - Machine learning, neural networks, natural language processing
 - Cheminformatics & bioinformatics
 - High performance computing / cluster computing
-- Wrangling high dimensional data / big databases / messy datasets
+- Wrangling high dimensional data / big data / messy data
