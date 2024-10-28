@@ -21,11 +21,11 @@ subtitle: Selected presentations I designed
 <p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQEzO6Y38p8uJU5rUI_xodFiIqpgSob3CcOMQv6GdzQM5D_nKv92caUnqqCBRK0bQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
 
 
-<p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTypzu87wDaP5aCah_fpTAkS87fk0UKm5m27gntD-93q93enA5_0zHgpXdMB4Uo9Q/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+<p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTypzu87wDaP5aCah_fpTAkS87fk0UKm5m27gntD-93q93enA5_0zHgpXdMB4Uo9Q/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
 
 
 <p align="center"><b>Miscellaneous slides that I think look nice</b></p>
 
-<p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfBEzWhgCwOH1ipmf5j0P1F3keQ38sg5E6ZoZ9lc4WbdQ67nyIaAxCTr-ZFde-aAjZpAVTFomDdzni/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
+<p align="center"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfBEzWhgCwOH1ipmf5j0P1F3keQ38sg5E6ZoZ9lc4WbdQ67nyIaAxCTr-ZFde-aAjZpAVTFomDdzni/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></p>
 
 

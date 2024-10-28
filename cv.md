@@ -32,3 +32,5 @@ title: CV
 - Cheminformatics & bioinformatics
 - High performance computing / cluster computing
 - Wrangling high dimensional data / big data / messy data
+
+<a href="/assets/files/resume.pdf"><center><b>Please take a look at my resume here</b></center></a>
