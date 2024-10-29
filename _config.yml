@@ -16,8 +16,9 @@ author: Zichen Liu
 navbar-links:
   Curriculum Vitae: "cv"
   Academic Stuff:
-    - Undergrad Thesis: "thesis"
+    - Doctoral Projects: "gsr"
     - Masters Capstone: "capstone"
+    - Undergrad Thesis: "thesis"
     - Coursework: "courses"
   Design Portfolio:
     - Data Visualizations: "viz"

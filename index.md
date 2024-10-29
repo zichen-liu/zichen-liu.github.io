@@ -14,6 +14,6 @@ I grew up in the Silicon Valley of California. Here's a quick overview of my pro
 - **2020-2022**: I stayed at the University of Washington to pursue my MS in biostatistics
 - **2022-Now**: I'm a PhD student in biostatistics at UCLA
  
-I have a variety of hobbies such as creative writing, bouldering, and playing video games (notably Teamfight Tactics). I also enjoy reviewing horror movies on Letterboxd, collecting cute pins, and being a mediocre musician.
+I have a variety of hobbies such as bouldering, and playing video games (notably Teamfight Tactics), and reviewing horror movies on Letterboxd.
 
 <a href="/assets/files/resume.pdf"><center><b>Please take a look at my resume here</b></center></a>
