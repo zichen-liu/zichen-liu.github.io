@@ -4,7 +4,7 @@ title: Coursework
 subtitle: Selected relevant courses
 ---
 
-I've been in school for a very long time and have taking many courses...
+I've been in school for a very long time and have taken many courses...
 
 ### Statistics Core
 

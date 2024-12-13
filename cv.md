@@ -19,10 +19,10 @@ title: CV
 ### Top skills
 
 - R, Python, SQL, Julia, Unix/Linux, LaTeX
-- I've been programming for 10+ years so I'm confident in my existing programming skills and pick up new ones quickly
+- I've been programming for 10+ years!
 - Statistical modeling & consulting
 - Aesthetic [data visualization](https://zichen-liu.github.io/viz/)
-- Scientific writing, code versioning (Git), and agile project managing (Asana, Jira)
+- Scientific writing, code versioning (Git), & agile project management (Asana, Jira)
 
 ### Experience with
 
