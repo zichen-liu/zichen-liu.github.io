@@ -19,16 +19,16 @@ title: CV
 ### Top skills
 
 - R, Python, SQL, Julia, Unix/Linux, LaTeX
-- I've been programming for 10+ years so I'm confident in my existing programming skills and pick up new ones quickly :)
+- I've been programming for 10+ years so I'm confident in my existing programming skills and pick up new ones quickly
 - Statistical modeling & consulting
 - Aesthetic [data visualization](https://zichen-liu.github.io/viz/)
-- An effective scientific writer, code versioner (Git), and agile project manager (Asana, Jira)
+- Scientific writing, code versioning (Git), and agile project managing (Asana, Jira)
 
 ### Experience with
 
 - Java, Stata, SAS, Perl, C, HTML/CSS, JavaScript, Standard ML
 - Machine learning (Keras, PyTorch, GLMnet) & natural language processing
-- Bayesian computation, Monte Carlo Markov Chain (MCMC), BLAS/LAPACK, simulation studies, etc.
+- Bayesian computation, Monte Carlo Markov Chain, BLAS/LAPACK, simulation studies, etc.
 - Cheminformatics & bioinformatics
 - High performance computing & cluster computing
 

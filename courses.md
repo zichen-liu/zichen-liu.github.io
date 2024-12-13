@@ -4,6 +4,8 @@ title: Coursework
 subtitle: Selected relevant courses
 ---
 
+I've been in school for a very long time and have taking many courses...
+
 ### Statistics Core
 
 - [Applied Linear Algebra](https://ucla-biostat-216.github.io/2022fall/syllabus/syllabus.html)
@@ -32,10 +34,10 @@ subtitle: Selected relevant courses
 
 ### Data Analysis
 
-- [Longitudinal](https://www.biostat.washington.edu/academics/courses/biost/540)
-- [Categorical](https://www.biostat.washington.edu/academics/courses/biost/536)
-- [Survival](https://www.biostat.washington.edu/academics/courses/biost/537)
-- [Spatial](https://www.biostat.washington.edu/academics/courses/biost/555)
+- [Longitudinal Data](https://www.biostat.washington.edu/academics/courses/biost/540)
+- [Categorical Data](https://www.biostat.washington.edu/academics/courses/biost/536)
+- [Survival Analysis](https://www.biostat.washington.edu/academics/courses/biost/537)
+- [Spatial Epidemiology](https://www.biostat.washington.edu/academics/courses/biost/555)
 
 ### Mathematics (undergraduate)
 
