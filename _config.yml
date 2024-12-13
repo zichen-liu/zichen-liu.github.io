@@ -16,7 +16,7 @@ author: Zichen Liu
 navbar-links:
   Curriculum Vitae: "cv"
   Academic Stuff:
-    - Doctoral Projects: "gsr"
+    - R Package: "package"
     - Masters Capstone: "capstone"
     - Undergrad Thesis: "thesis"
     - Coursework: "courses"

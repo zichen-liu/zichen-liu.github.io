@@ -10,16 +10,20 @@ subtitle: Selected relevant courses
 - Mathematical Statistics
 - Linear Statistical Models
 
-### Bayesian
+### Bayesian Methods
 
-- [Bayesian Simulation](http://donatello-telesca.com/biostatistics-271-bayesian-computation)
-- [Applied Bayesian](https://robweiss.faculty.biostat.ucla.edu/biostat234)
+- [Bayesian Computation](http://donatello-telesca.com/biostatistics-271-bayesian-computation)
+- [Applied Bayesian Methods](https://robweiss.faculty.biostat.ucla.edu/biostat234)
 
-### Computational
+### Computational Methods
 
 - [Numerical Methods](https://sa.ucla.edu/ro/Public/SOC/Results/ClassDetail?term_cd=22F&subj_area_cd=BIOSTAT&crs_catlg_no=0213%20%20%20%20&class_id=535079200&class_no=%20001%20%20)
 - [Statistical Computing](https://ucla-biostat-257.github.io/2023spring/syllabus/syllabus.html)
 - Stochastic Methods
+
+### Machine Learning
+- [Biomedical Data Science](https://www.biostat.washington.edu/academics/courses/biost/544)
+- [Pattern Recognition & Machine Learning](http://www.stat.ucla.edu/~ywu/teaching.html)
 
 ### Clinical Trials
 
@@ -28,7 +32,6 @@ subtitle: Selected relevant courses
 
 ### Data Analysis
 
-- [Biomedical Data](https://www.biostat.washington.edu/academics/courses/biost/544)
 - [Longitudinal](https://www.biostat.washington.edu/academics/courses/biost/540)
 - [Categorical](https://www.biostat.washington.edu/academics/courses/biost/536)
 - [Survival](https://www.biostat.washington.edu/academics/courses/biost/537)
